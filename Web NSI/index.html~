@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Titre qui apparatra dans le navigateur</title>
+ <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Le tableau fortunique des éléments</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#section1">Explications</a></li>
+            <li><a href="#section2">Découvrir</a></li>
+            <li><a href="#section3">Le tableau</a></li>
+        </ul>
+    </nav>
+    
+  <a href="hhh" ><img src="images/Californium.png"/>  </a>  
+    
+    <main>
+        <div id="section1">
+            <h2>Explications</h2>
+            <contain id= "contenu"><p>Vous découvrirez le pourquoi du comment en cliquant ici</p></contain>
+        </div>
+        <div id="section2">
+            <h2>Découvrir</h2>
+            <contain id= "contenu"><p>Vous découvrirez les éléments du tableau ici</p></contain>
+        </div>
+        <div id="section3">
+            <h2>Le tableau</h2>
+            <contain id= "contenu"><p>Vous trouverez le résumé des informations relatives aux éléments</p></contain>
+        </div>
+    </main>
+    <bottom>
+<table border="5" cellspacing="10">
+<tr>
+<th>Métal</th>
+<th>Prix par once troy</th>
+<th>Date de découverte</th>
+<th>Symbole</th>
+</tr>
+<tr>
+<th>Le Californium</th>
+<th>777,500,000€</th>
+<th>1950</th>
+<th>  
+<a href="hhh" ><img src="images/Californium.png"/>  </a>  
+</th>
+</tr>
+<tr>
+<th>Rhodium</th>
+<th>14,244€</th>
+<th>1803</th>
+<th>< a href="adresse de redirection" > < img src="URL de l'image" > < /a ></th>
+</tr>
+<tr>
+<th>Iridium</th>
+<th>4750€</th>
+<th>1803</th>
+<th>< a href="adresse de redirection" > < img src="URL de l'image" > < /a ></th>
+</tr>
+<tr>
+<th>Palladium</th>
+<th>2036€</th>
+<th>1803</th>
+<th>< a href="adresse de redirection" > < img src="URL de l'image" > < /a ></th>
+</tr>
+<tr>
+<th>Or</th>
+<th>1735€</th>
+<th>Ancien</th>
+<th>< a href="adresse de redirection" > < img src="URL de l'image" > < /a ></th>
+</tr>
+<tr>
+<th>Platine</th>
+<th>879€</th>
+<th>1557</th>
+<th>< a href="adresse de redirection" > < img src="URL de l'image" > < /a ></th>
+</tr>
+<tr>
+<th>Ruthénium</th>
+<th>584€</th>
+<th>1844</th>
+<th>< a href="adresse de redirection" > < img src="URL de l'image" > < /a ></th>
+</tr>
+<tr>
+<th>Osmuim</th>
+<th>400€</th>
+<th>1803</th>
+<th>< a href="adresse de redirection" > < img src="URL de l'image" > < /a ></th>
+</tr>
+<tr>
+<th>Rhénium</th>
+<th>47€</th>
+<th>1908</th>
+<th>< a href="adresse de redirection" > < img src="URL de l'image" > < /a ></th>
+</tr>
+<tr>
+<th>Argent</th>
+<th>18.88€</th>
+<th>Ancien</th>
+<th>< a href="adresse de redirection" > < img src="URL de l'image" > < /a ></th>
+</tr>
+</table>
+    </bottom>
+
+    <footer>
+        <p>('°-°') voilavoila, vous savez pas tout mais au moins plus qu'avant !</p>
+    </footer>
+</body>
+</html>
+
+
+
+
+
+
